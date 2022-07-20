@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rieco Edward
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on github
 - 📫 How to reach me https://linkedin.com/in/riecoedward/
 
 <!---
