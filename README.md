@@ -1,4 +1,4 @@
-<p align="left">A Computer Science student with a strong interest in software engineering. I have both passion and hands-on experience in designing and building reliable systems, particularly on the server side. I take great care in system performance, architecture, and code quality in everything I build. I’m also passionate about Artificial Intelligence, as I see its tremendous potential to support human needs and help shape a better future for society.</p>
+<p style="text-align: justify;">A Computer Science student with a strong interest in software engineering. I have both passion and hands-on experience in designing and building reliable systems, particularly on the server side. I take great care in system performance, architecture, and code quality in everything I build. I’m also passionate about Artificial Intelligence, as I see its tremendous potential to support human needs and help shape a better future for society.</p>
 
 ###
 
@@ -12,7 +12,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linstrahl/linstrahl/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/linstrahl/linstrahl/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/linstrahl/linstrahl/output/pacman-contribution-graph.svg" height="150">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/linstrahl/linstrahl/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
