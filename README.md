@@ -1,4 +1,4 @@
-<p align="left">A Computer Science student with a strong interest in software engineering. I have both passion and hands-on experience in designing and building reliable systems, particularly on the server side. I take great care in system performance, architecture, and code quality in everything I build. I’m also passionate about Artificial Intelligence, as I see its tremendous potential to support human needs and help shape a better future for society.</p>
+<p align="left">A Computer Science student with a strong interest in Software Engineering and AI. I have both passion and hands-on experience in designing and building reliable systems, particularly on the server side. I take great care in system performance, architecture, and code quality in everything I build.</p>
 
 ###
 
