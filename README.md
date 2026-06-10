@@ -1,9 +1,7 @@
-# 👾 hi, i'm Verglimn
-> *a digital gremlin who secures networks by day and menaces the internet by night*
-
+## 👾 hi, i'm Verglimn
+*a digital gremlin who secures networks by day and menaces the internet by night*
 <br>
 
-**roles**
 ![Systems Engineering](https://img.shields.io/badge/Systems_Engineering-1D9E75?style=flat)
 ![Software Engineering](https://img.shields.io/badge/Software_Engineering-7F77DD?style=flat&logoColor=white)
 ![Infrastructure](https://img.shields.io/badge/Infrastructure-BA7517?style=flat&logoColor=white)
