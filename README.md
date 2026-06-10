@@ -1,5 +1,6 @@
 # 👾 hi, i'm Verglimn
 > *a digital gremlin who secures networks by day and menaces the internet by night*
+<br>
 **roles**
 ![Systems Engineering](https://img.shields.io/badge/Systems_Engineering-1D9E75?style=flat)
 ![Software Engineering](https://img.shields.io/badge/Software_Engineering-7F77DD?style=flat&logoColor=white)
@@ -7,18 +8,8 @@
 ![Automation](https://img.shields.io/badge/Automation-378ADD?style=flat&logoColor=white)
 ![Linux Purist](https://img.shields.io/badge/Linux_Purist-888780?style=flat&logoColor=white)
 ![On--Call Survivor](https://img.shields.io/badge/On--Call_Survivor-D85A30?style=flat&logoColor=white)
-
-**security**
-![Cybersecurity](https://img.shields.io/badge/🔐_Cybersecurity-E24B4A?style=flat&logoColor=white)
-![Ethical Hacking](https://img.shields.io/badge/💀_Ethical_Hacking-D4537E?style=flat&logoColor=white)
-![Blue Team](https://img.shields.io/badge/🛡️_Blue_Team-378ADD?style=flat&logoColor=white)
-![Red Team](https://img.shields.io/badge/🔴_Red_Team-D85A30?style=flat&logoColor=white)
-![Penetration Testing](https://img.shields.io/badge/🔍_Penetration_Testing-7F77DD?style=flat&logoColor=white)
-![OSINT](https://img.shields.io/badge/🧅_OSINT-5F5E5A?style=flat&logoColor=white)
-![Incident Response](https://img.shields.io/badge/🚨_Incident_Response-BA7517?style=flat&logoColor=white)
-
+<br>
 > **"It's not a bug — it's an undocumented feature running on a legacy kernel with 847 days uptime."**
-
 ## 🧠 about me
 By daily reality: the person who builds the infrastructure, writes the code that runs on it, debugs why both are on fire at 2am, and then writes a postmortem nobody will read.
 
