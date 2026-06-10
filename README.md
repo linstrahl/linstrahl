@@ -1,4 +1,4 @@
-### 👾 Verglim
+### 👾 Verglimn
 *a digital gremlin who secures networks by day and menaces the internet by night*
 
 > By daily reality: the person who builds the infrastructure, writes the code that runs on it, debugs why both are on fire at 2am, and then writes a postmortem nobody will read.
