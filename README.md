@@ -1,10 +1,6 @@
 <p align="left">A Computer Science student with a strong interest in Software Engineering and Artificial Intelligence. I have both passion and hands-on experience in designing and building reliable systems, particularly on the server side. I take great care in system performance, architecture, and code quality in everything I build.</p>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=verglimn&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats" height="300" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=verglimn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=codeSTACKr&hide_border=false&order=2" height="300" alt="languages graph"  />
-</div>
-
-###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=verglimn&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=verglimn&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=verglimn&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
